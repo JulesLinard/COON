@@ -13,9 +13,10 @@ Dans l'ENSIIE, on peut retrouver de nombreuses associations comme le Bakaclub, u
 3) Une barre de LED également fixée sur la règle
 4) Un moteur de ventilateur (ou tout autre moteur permettant de faire tourner le support suffisament rapidement)
 5) Une pile 9V alimentant le moteur
-6) Des fils permettant d'assurer la connexion entre les différents éléments
-7) Du scotch permettant de scotcher les fils et la barre de LED à la règle
-8) Un pistolet à colle pour lier les éléments qui doivent l'être
+6) Un capteur de lumière et une LED
+7) Des fils permettant d'assurer la connexion entre les différents éléments
+8) Du scotch permettant de scotcher les fils et la barre de LED à la règle
+9) Un pistolet à colle pour lier les éléments qui doivent l'être
 
 # Montage
 
