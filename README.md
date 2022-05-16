@@ -21,6 +21,6 @@ Dans l'ENSIIE, on peut retrouver de nombreuses associations comme le Bakaclub, u
 
 Voici une photo du montage utilisé :
 
-![alt text](http://prntscr.com/4ui6zYMFwe9g) 
+![Ce montage](http://prntscr.com/4ui6zYMFwe9g) 
 
 Nous tenons tout de même à préciser qu'une partie du matériel est facilement remplaçable : pour ne citer qu'un exemple, la règle que nous avons utilisé peut être remplacer par un autre support.
