@@ -21,6 +21,6 @@ Dans l'ENSIIE, on peut retrouver de nombreuses associations comme le Bakaclub, u
 
 Voici une photo du montage utilisé :
 
-![Photo du montage](https://coon-ensiie.tumblr.com/post/684394135802757120) 
+![Photo du montage](https://64.media.tumblr.com/e52caf0b05eacad364ed925ba9e16d0b/e6597a0d5d49af53-6d/s640x960/4a87775ad736d8b300daf2540db7e7410841f42b.png) 
 
 Nous tenons tout de même à préciser qu'une partie du matériel est facilement remplaçable : pour ne citer qu'un exemple, la règle que nous avons utilisé peut être remplacer par un autre support.
