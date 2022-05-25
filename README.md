@@ -26,3 +26,5 @@ Voici une photo du montage utilisé :
 
 Nous tenons tout de même à préciser qu'une partie du matériel est facilement remplaçable : pour ne citer qu'un exemple, la règle que nous avons utilisé peut être remplacer par un autre support.
 Le code dont nous nous sommes inspirés provient de la page suivante : [Lien de la page](http://electroniqueamateur.blogspot.com/2014/07/arduino-et-persistance-retinienne-pov.html)
+
+Le code a été un peu modifié pour fonctionner avec notre matériel, notamment pour allumer les leds, où nous avons utilisé la biliothèque FastLeds.
